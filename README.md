@@ -3,5 +3,5 @@
 - 🔭 I’m currently working on a Chatbot which will respond to your queries and yes with a smile ofcourse 😄
 - 🌱 I’m currently learning to implement my NLP skills on something cool and interesting!
 - 💬 Ask me anything about Python, Machine Learning, Natural Language Processing and Recommender Systems.
-- 📫 Connect with me on [Poonam Verma](https://www.linkedin.com/in/poonam-verma-8170aaa8/)
+- 📫 Connect with me [here](https://www.linkedin.com/in/poonam-verma-8170aaa8/)
 
